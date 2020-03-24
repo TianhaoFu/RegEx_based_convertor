@@ -1,36 +1,39 @@
 # rule
 sequence to sequence
 # 一、简介
-基于正则表达式做的一套规则生成器和规则应用器用于完成paraphasing任务
+## 基于正则表达式做的一套规则生成器和规则应用器用于完成paraphasing任务
 
 1）给定数据集，可从数据集中提取句子转换的规则。
 
 数据集的基本组成单元为一对相同意思的question
-如：what 's your name
+如：
+what 's your name
 what is the name of you
 
 2）可将提取的规则应用于新句子中，转换为同义不同的形式。
 
 # 二、问题转换器转换思路
-问题转换器由一系列正则表达式对组成。
+## 问题转换器由一系列正则表达式对组成。
 
 设正则表达式对分别为P1和P2。问题转换前为Q1，问题转换后为Q2。
 
 首先利用P1从Q1中提取到一些关键字，如名词，形容词等。设提取到的关键字集合为K，将K嵌入到P2中得到Q2从而完成问题转换的思路。
 
 例：
+
 Q1： emmm. how do I learn to play the guitar ? it’s so diffcult 
 
 Q2： what is the best way to learn to play the guitar ?  
 
 K：  {“learn to play the guitar” }
+
 P1：  [\,\.\?]how\sdo\si\s(.+)[\,\.\?]
 
 P2：  what is the best way to $@_0
 
 流程：P1首先利用 (.+) 从Q1中提取到关键字 learn to play the guitar ，并利用[\,\.\?] 将Q1中与主干无关的部分emmm. it’s so diffcult  去掉，之后将提取到的关键字嵌入到P2（替换P2中的$@_0）中便得到Q2。
 # 三、问题转换器学习思路（正则表达式对学习思路）
-核心思想为通过字符串及正则表达式的规则进行学习。
+## 核心思想为通过字符串及正则表达式的规则进行学习。
 
 a.P1的生成：
 
