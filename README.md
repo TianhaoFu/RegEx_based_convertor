@@ -10,8 +10,13 @@
 
 数据集的基本组成单元为一对相同意思的question。
 如：
-what 's your name <->
-what is the name of you
+emmm. how do I learn to play the guitar ? it’s so diffcult  <->  
+what is the best way to learn to play the guitar ?  
+
+规则用正则表达式的形式进行表达
+如：
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]  <->  
+ what is the best way to $@_0
 
 2）可将提取的规则应用于新句子中，转换为同义不同的形式。
 
