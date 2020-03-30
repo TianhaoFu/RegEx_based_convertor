@@ -62,6 +62,6 @@ P2初始时与Q2相同。首先从Q1的第一个单词开始，循环搜索Q2中
 ->rule_test.py ：对生成的的规则进行测试
 
 
-# 如果你觉得对你有用，请点个star吧！！！蟹蟹！！！
-
+# 如果你觉得对你有用，请在你的代码或者论文中注明一下我的工作，如果能再给我点个star就更好啦！！！
+# If you find the datasets or code useful in your research, please consider citing my work.
 
