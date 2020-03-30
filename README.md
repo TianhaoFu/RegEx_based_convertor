@@ -47,7 +47,9 @@ P2初始时与Q2相同。首先从Q1的第一个单词开始，循环搜索Q2中
 
 ->rule_extractor.ipynb 训练问题转换器并且应用问题转换器进行问题的同义转换
 
-->rule_filter.ipynb 对转换后的问题进行数据预处理
+->rule_filter.ipynb 对转换后的规则进行数据预处理
+
+->rule_filter_test.txt 以quora数据集为例得到的同一转换规则
 
 
 
