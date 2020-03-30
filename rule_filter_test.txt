@@ -1,0 +1,496 @@
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are the best ways to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are the best ways to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what 's the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what 's the best way to $@_0
+[\,\.\?]how\sshould\si\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what is the easiest way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>is it possible to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what are the best ways to $@_0
+[\,\.\?]how\sdoes\sone\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what does it take to $@_0
+[\,\.\?]how\scan\syou\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what is the fastest way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the fastest way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the easiest way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are some of the best ways to $@_0
+[\,\.\?]how\scan\swe\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are good ways to $@_0
+[\,\.\?]how\sdo\swe\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what does it take to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>is it possible to $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\syour\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?]how\sdid\syou\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are some good ways to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what 's the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)\smy\s(.+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?](.+)\sdo\syou\smean\sby\s(.+)[\,\.\?]>>$@_0 is the meaning of $@_1
+[\,\.\?]what\sdoes\sit\stake\sto\sbe\s(.+)[\,\.\?]>>how do i become $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>which is the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>which is the best way to $@_0
+[\,\.\?](\S+)\sshould\si\sdo\s(.+)[\,\.\?]>>$@_0 is the best way $@_1
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what are good ways to $@_0
+[\,\.\?](\S+)\sis\sthe\smeaning\sof\s(\S+)[\,\.\?]>>$@_0 do you mean by $@_1
+[\,\.\?]why\sshould\si\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\scan\syou\s(.+)[\,\.\?]>>what are the best ways to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what is the easiest way to $@_0
+[\,\.\?]how\sdo\si\sbecome\s(.+)[\,\.\?]>>what does it take to be $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the way to $@_0
+[\,\.\?]how\sdo\si\s(.+)\smy\s(.+)[\,\.\?]>>what are the best ways to $@_0 $@_1
+[\,\.\?]how\scan\sone\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\s(.+)\sdiffer[\,\.\?]>>what is the difference between $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>is there a way to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what is the fastest way to $@_0
+[\,\.\?]how\scan\swe\s(.+)[\,\.\?]>>is it possible to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are the requirements to $@_0
+[\,\.\?]how\sdo\si\sstart\s(.+)[\,\.\?]>>what are some tips for starting $@_0
+[\,\.\?]what\sare\ssome\stips\sfor\sstarting\s(.+)[\,\.\?]>>how do i start $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are some good ways to $@_0
+[\,\.\?](\S+)\sis\sthe\sbest\sway\s(.+)[\,\.\?]>>$@_0 are some good ways $@_1
+[\,\.\?]where\scan\si\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>is it possible to $@_0
+[\,\.\?]how\scan\si\s(\S+)\smy\s(.+)[\,\.\?]>>what is the best way to $@_0 your $@_1
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are good ways to $@_0
+[\,\.\?]how\scan\s(.+)\sbecome\s(.+)[\,\.\?]>>what should $@_0 do to be $@_1
+[\,\.\?](.+)\sshould\si\sdo\s(.+)[\,\.\?]>>$@_0 is the best way $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\sa\s(.+)[\,\.\?]>>how did you $@_0 your $@_1
+[\,\.\?]how\sdo\si\s(.+)\s(.+)[\,\.\?]>>what is the best way to $@_0 a $@_1
+[\,\.\?](.+)\sare\ssome\sways\s(.+)[\,\.\?]>>$@_0 is the best way $@_1
+[\,\.\?]how\sdo\si\s(.+)\s(.+)\s(.+)[\,\.\?]>>what is $@_1 best way to $@_0 $@_2
+[\,\.\?]how\scan\si\s(.+)\s(.+)[\,\.\?]>>what is the best way to $@_0 about $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how do i $@_0 my $@_1
+[\,\.\?]how\sdo\si\s(.+)\smy\s(.+)[\,\.\?]>>what is the best way to $@_0 a $@_1
+[\,\.\?]how\sdo\si\s(.+)\smy\s(.+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?](.+)\sare\ssome\sgood\sways\s(.+)[\,\.\?]>>$@_0 is the best way $@_1
+[\,\.\?]how\scan\si\s(\S+)\smy\s(\S+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>why is it so hard to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what is a good way to $@_0
+[\,\.\?]what\sis\sthe\sdifference\sbetween\s(.+)\sand\s(.+)[\,\.\?]>>how does $@_0 differ from $@_1
+[\,\.\?]what\sare\sthe\sbest\sways\sto\s(\S+)\s(.+)[\,\.\?]>>how do i $@_0 my $@_1
+[\,\.\?]how\scan\si\s(\S+)\sa\s(.+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what are some of the best ways to $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(\S+)\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?]how\sshould\si\s(.+)[\,\.\?]>>what 's the best way to $@_0
+[\,\.\?]how\scan\si\s(\S+)\smy\s(.+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?](\S+)\scan\si\sdo\s(.+)[\,\.\?]>>$@_0 is the best way $@_1
+[\,\.\?](\S+)\sis\sthe\sbest\sbook\sfor\s(.+)[\,\.\?]>>$@_0 are some good books on $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\sreduce\s(.+)[\,\.\?]>>how do i lose $@_0
+[\,\.\?]how\scan\sone\s(.+)[\,\.\?]>>what does it take to $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is it like to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are some of the best ways to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>is there any way to $@_0
+[\,\.\?](\S+)\sis\s(\S+)\sdifference\s(.+)\sculture[\,\.\?]>>$@_0 are $@_1 major differences $@_2 cultures
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>is there a way to $@_0
+[\,\.\?]how\sdo\s(.+)\swork[\,\.\?]>>what are $@_0 used for
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what 's the fastest way to $@_0
+[\,\.\?]how\scan\sone\s(.+)[\,\.\?]>>what should i do to $@_0
+[\,\.\?]how\sshould\sone\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)[\,\.\?]>>how can i $@_0 by myself
+[\,\.\?]how\scan\sone\s(.+)[\,\.\?]>>what are the best ways to $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(\S+)\sa\s(\S+)[\,\.\?]>>how do i $@_0 my $@_1
+[\,\.\?]how\sdo\si\sstart\slearning\s(.+)[\,\.\?]>>what is the best way to learn $@_0
+[\,\.\?]how\sdo\si\s(\S+)\smy\s(\S+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(\S+)\s(.+)[\,\.\?]>>how do i $@_0 my $@_1
+[\,\.\?]how\sshould\si\s(.+)[\,\.\?]>>what are the best ways to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what is the way to $@_0
+[\,\.\?]how\sdo\si\sbecome\s(.+)[\,\.\?]>>what are the keys to becoming $@_0
+[\,\.\?]how\sshould\si\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]how\sdid\s(.+)\sdie[\,\.\?]>>what was $@_0 like as a person
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>is there any way to $@_0
+[\,\.\?]how\sdo\si\sget\s(.+)\s(.+)\sme[\,\.\?]>>what is the best way $@_1 $@_0
+[\,\.\?]what\sare\sthe\sdifferences\sbetween\s(.+)\sand\s(.+)[\,\.\?]>>how is $@_0 different from $@_1
+[\,\.\?]how\scan\syou\s(.+)[\,\.\?]>>what 's the best way to $@_0
+[\,\.\?](.+)\sis\sthe\smeaning\sof\s(.+)[\,\.\?]>>$@_0 do you mean by $@_1
+[\,\.\?](.+)\sis\syour\s(.+)\sresolution[\,\.\?]>>$@_0 are some meaningful $@_1 resolutions for 2017
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how can i $@_0 a $@_1
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>is there any way to $@_0
+[\,\.\?]how\sdo\si\s(.+)\s(.+)[\,\.\?]>>what is the best way to $@_0 the $@_1
+[\,\.\?]how\sdo\si\s(.+)\smy\s(.+)[\,\.\?]>>what is the best way to $@_0 your $@_1
+[\,\.\?]how\scan\si\s(.+)\smy\s(.+)[\,\.\?]>>what is the best way to $@_0 an $@_1
+[\,\.\?](.+)\sdo\syou\sthink\sabout\s(.+)[\,\.\?]>>$@_0 is your review of $@_1
+[\,\.\?](.+)\sare\ssome\sgood\sbooks\son\s(.+)[\,\.\?]>>$@_0 is the best book for $@_1
+[\,\.\?]how\sshould\si\s(.+)[\,\.\?]>>what is the easiest way to $@_0
+[\,\.\?]how\scan\si\s(.+)\sby\smyself[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]what\sis\syour\s(\S+)\s(\S+)\smovie[\,\.\?]>>which are the $@_0 movies of $@_1
+[\,\.\?](\S+)\s's\s(\S+)\s(\S+)\sregret\sin\s(\S+)[\,\.\?]>>$@_0 are the $@_2 regrets of $@_1 $@_3
+[\,\.\?]what\s's\sthe\sbest\sway\sto\s(\S+)\sa\s(\S+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?](.+)\s(\S+)\s(\S+)\sby\sthe\sindian\sgovernment\sto\sdemonetize\s(.+)\s1000\s(.+)[\,\.\?]>>$@_0 pm 's $@_2 on $@_1 banning of $@_3 100 $@_4
+[\,\.\?]why\sdoesn't\s(\S+)\swork\sin\s(\S+)[\,\.\?]>>daniel ek: when is $@_0 coming to $@_1
+[\,\.\?]why\swas\s(.+)\sremoved\sas\sthe\schairman\sof\s(\S+)\ssons[\,\.\?]>>what led to $@_0 ouster from $@_1 group
+[\,\.\?](\S+)\scan\syou\srecover\syour\s(\S+)\s(\S+)[\,\.\?]>>$@_0 do i reset my $@_1 account $@_2
+[\,\.\?](\S+)\sdo\s(\S+)\sprepare\sfor\s(\S+)[\,\.\?]>>$@_0 can $@_1 score good marks in $@_2
+[\,\.\?](\S+)\sdo\syou\sthink\s(\S+)\s(.+)\sby\sthe\sindian\sgovernment\sto\sdemonetize\s(.+)\srupee\s(\S+)[\,\.\?]>>$@_0 's your opinion about $@_2 on removal $@_1 $@_3 rupees currency $@_4
+[\,\.\?](.+)\ssome\smisunderstood\saspects\sof\s(\S+)\sculture\sof\s(\S+)[\,\.\?]>>$@_0 $@_1 major stereotypes people have about $@_2 and to what extent are they true
+[\,\.\?](\S+)\sare\ssome\ssubstitutes\s(.+)[\,\.\?]>>$@_0 can be used as a substitute $@_1
+[\,\.\?](\S+)\sis\sit\s(\S+)\sto\slive\s(.+)[\,\.\?]>>$@_0 will living $@_2 be $@_1 in 2020
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what 's the easiest way to $@_0
+[\,\.\?](\S+)\sdo\s(.+)\son\s(\S+)\ssite[\,\.\?]>>$@_0 can $@_1 to $@_2 website using social media
+[\,\.\?](.+)\srecover\sa\shacked\s(\S+)[\,\.\?]>>$@_0 hack into someone 's $@_1
+[\,\.\?]why\shasn't\s(\S+)\sek\sbrought\s(\S+)\s(.+)[\,\.\?]>>$@_0 ek: when is $@_1 coming $@_2
+[\,\.\?]what\sis\sthe\seasiest\sway\sto\sloose\s(\S+)[\,\.\?]>>how do i lose $@_0
+[\,\.\?]how\scan\s(\S+)\s(.+)\scommunication\sskills\sin\s(\S+)[\,\.\?]>>what is the best path $@_0 should take to $@_1 $@_2
+[\,\.\?]how\scan\si\s(\S+)\smy\scommunication\sskills\sin\s(\S+)[\,\.\?]>>what the best way to $@_0 $@_1
+[\,\.\?]what\sare\ssome\sways\sto\s(\S+)\sa\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?](.+)\sask\squestions\son\s(\S+)[\,\.\?]>>$@_0 post a question in $@_1
+[\,\.\?](\S+)\scan\syou\s(\S+)\syour\s(\S+)\s(\S+)[\,\.\?]>>$@_0 do i $@_1 my $@_2 account when it does not open after $@_3 reset
+[\,\.\?](.+)\sof\sthe\sdecision\sby\sthe\sindian\s(\S+)\sto\sdemonetize\s(\S+)\sand\s(\S+)\srupee\snotes[\,\.\?]>>$@_0 about modi $@_1 banning $@_2 & $@_3 currency note from 9th november
+[\,\.\?]how\scan\s(\S+)\simprove\s(\S+)\s(.+)\sin\s(\S+)[\,\.\?]>>what should $@_0 have to do to make $@_1 $@_3 and $@_2 perfect
+[\,\.\?]how\sdo\si\s(.+)\sin\s(.+)[\,\.\?]>>what is the best way to $@_0 with $@_1
+[\,\.\?]which\s(\S+)\sshould\si\s(.+)[\,\.\?]>>what are the best $@_0 to $@_1
+[\,\.\?]how\sdo\si\s(.+)\sfor\s(.+)[\,\.\?]>>what are some ways to $@_0 $@_1
+[\,\.\?](\S+)\sare\sthe\smajor\sdifferences\s(.+)\sculture[\,\.\?]>>$@_0 is biggest difference $@_1 cultures
+[\,\.\?](\S+)\sare\ssome\salternatives\s(.+)[\,\.\?]>>$@_0 is a better alternative $@_1
+[\,\.\?](\S+)\s(\S+)\s(\S+)\s(\S+)\sunite\sone\sday[\,\.\?]>>in the future $@_0 $@_3 $@_2 $@_1 be together
+[\,\.\?](\S+)\sdo\syou\sthink\s(\S+)\sthe\sdecision\sby\sthe\sindian\sgovernment\sto\sdemonetize\s(.+)[\,\.\?]>>$@_0 are your views on ban $@_1 $@_2 in india
+[\,\.\?]which\sis\sthe\sbest\s(.+)[\,\.\?]>>what are some good $@_0
+[\,\.\?]how\sdid\syou\s(\S+)\syour\s(.+)[\,\.\?]>>what is the best way to $@_0 a $@_1
+[\,\.\?]how\sshould\si\s(\S+)\smy\s(\S+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>is it ok to $@_0
+[\,\.\?]daniel\sek:\swhen\sis\s(\S+)\scoming\s(\S+)\s(\S+)[\,\.\?]>>how much time will $@_0 take $@_1 land in $@_2
+[\,\.\?]how\sdo\si\s(.+)\son\smy\ssite[\,\.\?]>>what is the best way to $@_0 for a new blog
+[\,\.\?]how\scan\si\s(.+)\smy\s(\S+)[\,\.\?]>>what is the best way to $@_0 your $@_1
+[\,\.\?](\S+)\sdo\syou\smean\sby\s(.+)[\,\.\?]>>$@_0 is the meaning of $@_1
+[\,\.\?]what\sshould\si\sdo\s(.+)\smy\s(\S+)[\,\.\?]>>which is the best way $@_0 $@_1
+[\,\.\?]how\scould\si\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?](.+)\sthe\sbest\s(\S+)\sfor\slearning\s(\S+)[\,\.\?]>>$@_0 some good $@_1 to learn $@_2
+[\,\.\?](.+)\sof\syour\slife[\,\.\?]>>$@_0 you 've ever experienced
+[\,\.\?]what\sis\sthe\salgorithmic\sapproach\sto\s(\S+)\sthe\s(.+)\s"george\sand\sjob"[\,\.\?]>>how can i $@_0 this $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(\S+)\syour\s(\S+)[\,\.\?]>>how do i $@_0 my $@_1
+[\,\.\?](\S+)\scan\syou\s(\S+)\syour\s(.+)[\,\.\?]>>$@_0 do i $@_1 a lost $@_2
+[\,\.\?]how\sdo\swe\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]what\s(.+)\sthink\sof\s(\S+)\s(\S+)\s(\S+)\sthe\s(.+)\s(\S+)\sdemonetize\s(\S+)\s(.+)[\,\.\?]>>how $@_0 view $@_1 $@_4 's $@_2 $@_5 fight "black money" $@_3 scrapping $@_6 rupee $@_7
+[\,\.\?](\S+)\s(.+)\sunited\sstates\s(\S+)\selection:\strump\sor\sclinton[\,\.\?]>>$@_0 do you think $@_1 $@_2 election
+[\,\.\?]how\s(\S+)\s(\S+)\sdifferent\sfrom\s(\S+)[\,\.\?]>>what $@_0 the difference between $@_1 and $@_2
+[\,\.\?]add\squestions\son\s(\S+)[\,\.\?]>>how do i post a question in $@_0
+[\,\.\?]what\sis\sthe\sdifference\sbetween\s(.+)[\,\.\?]>>how do $@_0 compare and contrast
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the best way to $@_0 about yourself
+[\,\.\?]what\sare\ssome\sways\sto\s(\S+)\s(\S+)[\,\.\?]>>how can i $@_0 my communication skills in $@_1
+[\,\.\?]should\si\sbuy\s(.+)[\,\.\?]>>is it worth buying $@_0
+[\,\.\?](.+)\sabout\sbanning\s(.+)\sin\sindia[\,\.\?]>>$@_0 of the decision by the indian government to demonetize $@_1
+[\,\.\?](\S+)\sis\syour\s(.+)\sresolution[\,\.\?]>>$@_0 are the resolutions you are going to take for the upcoming $@_1 2017
+[\,\.\?](\S+)\sdo\s(.+)\s(\S+)\son\s(\S+)\ssite[\,\.\?]>>$@_0 can $@_1 the $@_2 of $@_3 blog
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what is best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are the ways to $@_0
+[\,\.\?](\S+)\sis\syour\sreview\sof\s(.+)[\,\.\?]>>$@_0 do you think about $@_1
+[\,\.\?](\S+)\sis\syour\s(\S+)\s(\S+)\smovie[\,\.\?]>>$@_0 are the $@_1 movies of $@_2
+[\,\.\?]what\sare\ssome\sgood\s(.+)[\,\.\?]>>which is the best $@_0
+[\,\.\?]what\sare\ssome\stips\sfor\sgetting\s(.+)[\,\.\?]>>how can i get $@_0
+[\,\.\?]what\sdo\syou\sthink\s(\S+)\sthe\sdecision\sby\sthe\sindian\sgovernment\sto\sdemonetize\s(\S+)\sand\s(.+)[\,\.\?]>>is this move $@_0 banning $@_1 & $@_2 right
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>which are the best ways to $@_0
+[\,\.\?](\S+)\sdo\syou\sthink\s(.+)\sthe\s(\S+)\s(\S+)\selection[\,\.\?]>>$@_0 $@_1 in america $@_3 elections in $@_2
+[\,\.\?]what\sis\s(\S+)\sreason\sbehind\sreplacing\scyrius\s(\S+)\sfrom\s(.+)[\,\.\?]>>why was cyrus $@_1 removed as $@_0 chairman of $@_2
+[\,\.\?]what\sis\sthe\sbest\sway\sto\slearn\s(.+)[\,\.\?]>>how do i start learning $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are some tips to $@_0
+[\,\.\?]how\scan\si\s(\S+)\smy\s(.+)[\,\.\?]>>what are some ways to $@_0 your $@_1
+[\,\.\?]how\si\scan\s(.+)[\,\.\?]>>what are the best ways to $@_0
+[\,\.\?]how\s(\S+)\syou\s(\S+)\syour\s(\S+)[\,\.\?]>>what should i $@_0 to $@_1 my $@_2
+[\,\.\?](\S+)\swas\s(.+)\sremoved\sas\sthe\schairman\s(\S+)\stata\ssons[\,\.\?]>>$@_0 $@_1 has been sacked all $@_2 a sudden
+[\,\.\?](\S+)\scan\syou\srecover\syour\s(.+)[\,\.\?]>>$@_0 do i retrieve my $@_1
+[\,\.\?]which\sis\s(.+)\scollege\s(.+)[\,\.\?]>>what are the $@_0 colleges $@_1
+[\,\.\?]how\sdo\swe\s(\S+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]between\strump\sand\sclinton\s(\S+)\s(.+)\sus\s(.+)[\,\.\?]>>$@_0 do you think $@_1 the 2016 $@_2
+[\,\.\?]which\sbooks\sare\s(\S+)\s(.+)[\,\.\?]>>what is the $@_0 book $@_1
+[\,\.\?](.+)\sof\sthe\sbest\simages\sof\s(.+)[\,\.\?]>>$@_0 really great pictures depicting $@_1
+[\,\.\?](\S+)\sare\ssome\sways\s(.+)[\,\.\?]>>$@_0 is the best way $@_1
+[\,\.\?]how\s(.+)\simprove\s(\S+)\scommunication\sskills\sin\s(\S+)[\,\.\?]>>what $@_0 do to practice $@_1 $@_2
+[\,\.\?]how\scan\si\searn\s(.+)[\,\.\?]>>what is the best way to make $@_0
+[\,\.\?](\S+)\s(.+)\sreplaced\s(.+)\sto\sratan\stata[\,\.\?]>>$@_0 was $@_2 removed as the chairman of $@_1
+[\,\.\?](\S+)\sdo\s(\S+)\spost\sa\squestion\sin\s(\S+)[\,\.\?]>>$@_0 so $@_1 ask questions on $@_2
+[\,\.\?]how\sdo\si\slose\s(\S+)[\,\.\?]>>what is the best way to reduce $@_0
+[\,\.\?]which\sare\s(.+)\smovies\sin\s(\S+)[\,\.\?]>>what is $@_0 movie of $@_1
+[\,\.\?]how\sshould\si\slearn\s(.+)[\,\.\?]>>what are some tips for learning $@_0
+[\,\.\?]what\s(\S+)\sthe\sbest\s(\S+)\sfor\s(.+)[\,\.\?]>>which programming $@_1 $@_0 preferred in $@_2 competitions
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(\S+)\sin\s(\S+)[\,\.\?]>>how does one $@_0 at $@_1
+[\,\.\?](\S+)\s's\s(.+)\sthing\s(\S+)\s's\s(.+)[\,\.\?]>>$@_0 are some of $@_1 things $@_2 have $@_3 (or someone you know)
+[\,\.\?]what\sare\sthe\sbest\sways\sto\s(.+)\s(\S+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?](.+)\sdecision\sby\sthe\sindian\sgovernment\sto\sdemonetize\s(.+)[\,\.\?]>>$@_0 move of banning $@_1 in india (nov 2016)
+[\,\.\?]what\sare\sthe\sways\sof\slosing\s(\S+)[\,\.\?]>>how do i lose $@_0
+[\,\.\?](.+)\sabout\s(.+)\sdemonetise\s(.+)\srupees\snote[\,\.\?]>>$@_0 of the $@_1 demonetize $@_2 rupee notes
+[\,\.\?]how\sdo\si\s(\S+)\smy\s(\S+)[\,\.\?]>>what are the best ways to $@_0 your $@_1
+[\,\.\?]how\scan\si\s(\S+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]why\swas\s(.+)\s(.+)\sthe\schairman\s(.+)[\,\.\?]>>what are your views on $@_0 being $@_1 chairperson $@_2
+[\,\.\?]how\scan\si\slose\smy\s(.+)[\,\.\?]>>what is the best way to reduce $@_0
+[\,\.\?](\S+)\swill\s(\S+)\slaunch\sin\s(\S+)[\,\.\?]>>daniel ek: $@_0 is $@_1 coming to $@_2
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what 's the best plan to $@_0
+[\,\.\?]what\sare\ssome\stips\son\smaking\sit\sthrough\s(\S+)\sjob\sinterview\s(.+)[\,\.\?]>>how competitive is $@_0 hiring $@_1
+[\,\.\?]how\sdo\si\s(\S+)\s(.+)[\,\.\?]>>what is the best way to $@_0 a $@_1
+[\,\.\?]how\scan\si\simprove\smy\s(.+)[\,\.\?]>>what is the best way of improving $@_0
+[\,\.\?]what\sis\s(.+)\sand\s(.+)[\,\.\?]>>how does $@_0 differ from $@_1
+[\,\.\?]how\sdo\si\smake\s(.+)[\,\.\?]>>what are the best ways to earn $@_0
+[\,\.\?]how\scan\s(\S+)\s(.+)\scommunication\sskills\s(.+)[\,\.\?]>>what are the best ways to $@_1 english because $@_0 'm not good $@_2
+[\,\.\?]why\swas\s(.+)\sremoved\sas\s(\S+)\schairman\s(\S+)\s(\S+)\ssons[\,\.\?]>>what is $@_1 reason behind firing $@_2 $@_0 from $@_3 group
+[\,\.\?](\S+)\sshould\si\sdo\s(.+)[\,\.\?]>>$@_0 is the fastest way $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\swith\s(.+)[\,\.\?]>>how do i $@_0 in $@_1
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what 's the easiest way to $@_0
+[\,\.\?]what\sare\s(.+)\sbooks\son\s(.+)[\,\.\?]>>which is $@_0 book for $@_1
+[\,\.\?](\S+)\sdo\si\s(\S+)\smy\s(\S+)[\,\.\?]>>$@_0 does one $@_1 his or her $@_2
+[\,\.\?]what\shappens\sin\s(.+)[\,\.\?]>>is there a sequel to $@_0
+[\,\.\?]how\sdo\si\s(\S+)\s(.+)[\,\.\?]>>what is the best way to $@_0 the $@_1
+[\,\.\?](\S+)\sdo\s(.+)\s(\S+)\son\smy\ssite[\,\.\?]>>$@_0 can $@_1 the $@_2 to a website
+[\,\.\?]what\sis\sthe\sdefinition\sof\s(\S+)\sand\slosing\s(\S+)\svirginity\sfor\sboth\smales\sand\sfemales[\,\.\?]>>when did you lose $@_1 $@_0
+[\,\.\?]what\sare\ssome\sgood\scolleges\s(.+)[\,\.\?]>>which is the best college $@_0
+[\,\.\?](\S+)\scan\s(\S+)\sask\smy\s(\S+)\son\s(\S+)[\,\.\?]>>$@_0 do $@_1 post a $@_2 in $@_3
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what is needed to $@_0
+[\,\.\?](\S+)\sdo\syou\sthink\s(\S+)\s(\S+)\sdecision\sby\sthe\s(\S+)\sgovernment\sto\sdemonetize\s(.+)\srupee\s(\S+)[\,\.\?]>>$@_0 is balaji viswanathan 's opinion on $@_2 $@_3 prime minister modi 's new policy about illegalization $@_1 $@_4 currency $@_5
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what 's the fastest way to $@_0
+[\,\.\?](\S+)\sdo\s(.+)\son\smy\ssite[\,\.\?]>>$@_0 can $@_1 to a story blog
+[\,\.\?]what\sis\sthe\seasiest\sway\sto\s(.+)[\,\.\?]>>how can i $@_0 by myself
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are ways to $@_0
+[\,\.\?]what\sare\ssome\sways\sto\s(.+)[\,\.\?]>>how can i $@_0 easily
+[\,\.\?]daniel\sek:\swhen\s(.+)\scoming\sto\s(\S+)[\,\.\?]>>why $@_0 nott available in $@_1
+[\,\.\?]can\sanyone\stell\sme\s(.+)\s(\S+)\sexperiences[\,\.\?]>>what are $@_0 examples of $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\sreduce\s(.+)[\,\.\?]>>how can i lose my $@_0
+[\,\.\?](\S+)\sdoes\sit\smean\sto\sbe\sa\s(\S+)[\,\.\?]>>$@_0 is the meaning of $@_1
+[\,\.\?](\S+)\sare\ssome\sexamples\s(\S+)\s(\S+)[\,\.\?]>>$@_0 is an example $@_1 an $@_2
+[\,\.\?]how\scan\syou\s(.+)[\,\.\?]>>what are some of the best ways to $@_0
+[\,\.\?]where\scan\si\s(.+)[\,\.\?]>>what 's the best way to $@_0
+[\,\.\?](\S+)\sis\s(\S+)\sso\shard[\,\.\?]>>$@_0 do people find $@_1 difficult
+[\,\.\?]how\scan\si\s(\S+)\smy\s(\S+)[\,\.\?]>>what would be the best way to $@_0 $@_1
+[\,\.\?](.+)\strump\sor\sclinton[\,\.\?]>>$@_0 the 2016 presidential election
+[\,\.\?]what\swent\swrong\swith\s(.+)\s(\S+)\s(\S+)\sgroup\s(\S+)\sand\s(.+)\she\sousted[\,\.\?]>>$@_4 $@_0 removed $@_1 the $@_3 of $@_2 sons
+[\,\.\?]what\sshould\s(\S+)\sdo\sto\s(.+)\sspoken\s(\S+)[\,\.\?]>>how can $@_0 $@_1 communication skills in $@_2
+[\,\.\?]how\sdo\syou\s(\S+)\syour\s(\S+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?]who\sdo\syou\sthink\swill\s(.+)\spresidential\s(\S+)[\,\.\?]>>which candidate is currently projected to $@_0 $@_1 at this time
+[\,\.\?]how\scan\si\s(\S+)\smyself\s(\S+)[\,\.\?]>>what is the best way to $@_0 yourself $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)[\,\.\?]>>how do i $@_0 online
+[\,\.\?](\S+)\swill\sbe\s(.+)\sapproach\sbe\stowards\s(\S+)[\,\.\?]>>$@_0 is $@_1 plan to deal with $@_2
+[\,\.\?]how\scan\si\s(.+)\seasily[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]how\sdo\si\s(.+)\sonline[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sshould\si\se-mail\s(.+)[\,\.\?]>>what 's the best approach to email $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what should be done to $@_0
+[\,\.\?]how\scan\si\s(\S+)\smy\s(\S+)[\,\.\?]>>what is the best way to $@_0 your $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what would be the best way to $@_0
+[\,\.\?]was\s(.+)\s(\S+)\sright\sor\sis\sit\sa\sbig\sscam[\,\.\?]>>what do you think of $@_0 rupee $@_1
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what is a good way to $@_0
+[\,\.\?](\S+)\swill\s(\S+)\sarrive\sin\s(\S+)[\,\.\?]>>daniel ek: $@_0 is $@_1 coming to $@_2
+[\,\.\?](\S+)\sdo\s(.+)\son\s(\S+)\ssite[\,\.\?]>>$@_0 can $@_1 to $@_2 websites by facebook
+[\,\.\?](\S+)\sshould\s(\S+)\srespond\s(\S+)\s(\S+)\sattacks[\,\.\?]>>$@_0 is $@_1 reacting $@_2 the terror attack on $@_3 camp in september 2016
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)[\,\.\?]>>how do i $@_0 in india
+[\,\.\?](\S+)\sdid\s(\S+)\sgroup\sfire\s(.+)\sfrom\s(\S+)\spost[\,\.\?]>>$@_0 was $@_2 removed as the $@_3 of $@_1 sons
+[\,\.\?]how\scan\syou\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]how\sis\s(.+)\sdifferent\sfrom\s(.+)[\,\.\?]>>what are the differences between $@_0 and $@_1
+[\,\.\?](\S+)\sare\s(.+)\splaces\sto\s(.+)\s(\S+)\s(\S+)\s(\S+)[\,\.\?]>>$@_0 is $@_1 place for a $@_2 $@_5 $@_4 $@_3
+[\,\.\?]how\sdo\si\s(\S+)\s(\S+)\s(\S+)[\,\.\?]>>what is $@_1 best way to $@_0 $@_2
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what is the best way to not $@_0
+[\,\.\?]what\sis\sthe\sfastest\sway\sto\sbecome\s(.+)[\,\.\?]>>how can i be $@_0
+[\,\.\?](\S+)\sis\syour\sreview\s(\S+)\s(.+)[\,\.\?]>>$@_0 are some reviews $@_1 the $@_2
+[\,\.\?](.+)\swhen\s(\S+)\s(\S+)\scoming\sto\s(\S+)[\,\.\?]>>$@_0 why $@_2 $@_1 not available in $@_3 for free
+[\,\.\?]how\swould\syou\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\s(.+)\scompare\sand\scontrast[\,\.\?]>>what are some characteristics of $@_0
+[\,\.\?]why\swas\s(.+)\sremoved\sas\s(\S+)\s(\S+)\s(.+)[\,\.\?]>>what is $@_1 reason behind the resignation $@_3 (tata group) $@_2 $@_0
+[\,\.\?](\S+)\sis\sthe\sbest\s(.+)\sidea[\,\.\?]>>$@_0 are some good $@_1 ideas
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what are ways to $@_0
+[\,\.\?]what\sare\s(\S+)\sprospect\sreasons\s(\S+)\s(.+)\sbeing\sfired\sby\s(.+)[\,\.\?]>>why was $@_2 removed as $@_0 chairman $@_1 $@_3
+[\,\.\?]what\sare\sthe\sbest\sways\sto\sask\s(.+)\son\s(\S+)[\,\.\?]>>how do i post $@_0 in $@_1
+[\,\.\?]what\sare\s(.+)\s(.+)\scolleges\s(.+)[\,\.\?]>>which is $@_0 college for $@_1 $@_2
+[\,\.\?]which\sis\sthe\sbest\scollege\s(.+)[\,\.\?]>>what are some good colleges $@_0
+[\,\.\?]how\sdo\si\s(\S+)\s(\S+)\son\smy\ssite[\,\.\?]>>what is the $@_0 organic $@_1 of websites
+[\,\.\?]who\sdo\syou\sthink\s(\S+)\s(.+)\s(.+)[\,\.\?]>>$@_0 donald trump or hillary clinton $@_1 us $@_2
+[\,\.\?](.+)\swhen\sit\sis\strue\s(\S+)[\,\.\?]>>$@_0 if you 're in $@_1
+[\,\.\?]how\si\scan\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\s(.+)\s(.+)[\,\.\?]>>how do i get $@_1 $@_0 me
+[\,\.\?]could\s(.+)\sunite\sagain[\,\.\?]>>in the future will $@_0 be together
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(\S+)\s(.+)[\,\.\?]>>how do i $@_0 more $@_1
+[\,\.\?](\S+)\sdo\s(.+)\s(\S+)\son\s(\S+)\ssite[\,\.\?]>>$@_0 can $@_1 the $@_2 to $@_3 website
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what does it feel like to $@_0
+[\,\.\?](\S+)\sdo\syou\sthink\sof\sthe\s(\S+)\sby\sthe\sindian\sgovernment\s(\S+)\sdemonetize\s(.+)\s(\S+)\srupee\s(\S+)[\,\.\?]>>$@_0 is your opinion on pm narendra modi 's $@_1 $@_2 ban inr $@_3 inr $@_4 $@_5
+[\,\.\?]how\sdo\si\s(.+)\sin\sindia[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what 's a good way to $@_0
+[\,\.\?](.+)\s(\S+)\s(\S+)\sdecision\sby\sthe\s(.+)\sto\sdemonetize\s(.+)\s(\S+)\srupee\snotes[\,\.\?]>>$@_0 about $@_2 $@_3 policy $@_1 not circulating inr $@_4 inr $@_5
+[\,\.\?]which\sis\s(.+)\sschool\s(.+)[\,\.\?]>>what are some of $@_0 schools $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what should be done to $@_0
+[\,\.\?](\S+)\sdoes\sone\s(\S+)\sa\sresearch\s(\S+)\sat\s(\S+)[\,\.\?]>>$@_0 can i $@_1 an $@_2 in $@_3
+[\,\.\?](.+)\sof\sthe\sdecision\sby\sthe\sindian\sgovernment\sto\sdemonetize\s(.+)[\,\.\?]>>$@_0 about banning $@_1 in india
+[\,\.\?](.+)\ssacked\sby\sratan\s(\S+)\sfrom\stata\s(\S+)[\,\.\?]>>$@_0 removed as the chairman of $@_1 $@_2
+[\,\.\?]how\sdo\syou\s(\S+)\sabout\s(\S+)[\,\.\?]>>what are the best way to $@_0 $@_1
+[\,\.\?]how\scan\ssomeone\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdo\si\slose\s(\S+)[\,\.\?]>>what is the best method of losing $@_0
+[\,\.\?]how\smany\s(.+)\sare\sthere\s(.+)[\,\.\?]>>what is the percentage of $@_0 $@_1
+[\,\.\?](\S+)\sdo\syou\s(\S+)\sif\syou're\s(.+)[\,\.\?]>>$@_0 could we $@_1 that we are falling $@_2
+[\,\.\?](.+)\syour\sreview\sof\s(.+)[\,\.\?]>>$@_0 it like to work at $@_1
+[\,\.\?](\S+)\sshould\si\sdo\s(.+)[\,\.\?]>>$@_0 is the easiest way $@_1
+[\,\.\?](\S+)\sdo\si\sbecome\s(\S+)\s(.+)[\,\.\?]>>$@_0 can one be $@_1 good $@_2
+[\,\.\?](\S+)\scan\s(\S+)\shack\smy\s(\S+)[\,\.\?]>>$@_0 do $@_1 recover a hacked $@_2
+[\,\.\?](.+)\sof\s(\S+)\s(\S+)\sby\sthe\sindian\sgovernment\s(\S+)\sdemonetize\s(.+)\srupee\snotes[\,\.\?]>>$@_0 about $@_1 modi 's sudden $@_2 $@_3 scrap $@_4 rs denomination
+[\,\.\?]how\scan\swe\s(.+)[\,\.\?]>>what are the measures to $@_0
+[\,\.\?]how\sdoes\sone\s(.+)[\,\.\?]>>what 's the best way to $@_0
+[\,\.\?]how\syou\scan\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]what\sare\ssome\sgood\ssites\s(.+)[\,\.\?]>>which is the best site $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are the best way to $@_0
+[\,\.\?]how\swill\syou\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]how\sdid\syou\s(.+)[\,\.\?]>>what should i do to $@_0
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what are the best ways to $@_0 at home
+[\,\.\?]why\s(.+)\sso\spopular[\,\.\?]>>what $@_0 like in person
+[\,\.\?]what\sare\syour\sviews\son\s(.+)\sbeing\s(.+)\schairperson\s(.+)[\,\.\?]>>why was $@_0 $@_1 the chairman $@_2
+[\,\.\?](.+)\swould\sit\scost\s(.+)[\,\.\?]>>$@_0 money do i need $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the best way to $@_0 for free
+[\,\.\?]which\sis\sthe\sbest\ssite\s(.+)[\,\.\?]>>what are some good sites $@_0
+[\,\.\?]which\sare\sthe\s(.+)\smovies\sof\s(.+)[\,\.\?]>>what is your $@_0 $@_1 movie
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what is it like to $@_0
+[\,\.\?]how\scan\si\s(.+)\smy\s(.+)[\,\.\?]>>what 's the best way to $@_0 a $@_1
+[\,\.\?](.+)\spm\s's\s(.+)\son\s(.+)\sbanning\sof\s(.+)\s100\s(.+)[\,\.\?]>>$@_0 $@_2 $@_1 by the indian government to demonetize $@_3 1000 $@_4
+[\,\.\?]daniel\sek:\swhen\sis\s(.+)\scoming\sto\s(.+)[\,\.\?]>>why doesn't $@_0 work in $@_1
+[\,\.\?]how\scan\swe\s(.+)[\,\.\?]>>what are good ways to $@_0
+[\,\.\?]what\sled\sto\s(.+)\souster\sfrom\s(.+)\sgroup[\,\.\?]>>why was $@_0 removed as the chairman of $@_1 sons
+[\,\.\?](.+)\sdo\si\sreset\smy\s(.+)\saccount\s(.+)[\,\.\?]>>$@_0 can you recover your $@_1 $@_2
+[\,\.\?]how\scan\si\s(.+)\smy\s(.+)[\,\.\?]>>what are the best ways to $@_0 your $@_1
+[\,\.\?]where\scan\s(.+)\s(.+)\sat\s(.+)[\,\.\?]>>how do $@_0 the $@_1 in $@_2
+[\,\.\?](.+)\s's\syour\sopinion\sabout\s(.+)\son\sremoval\s(.+)\s(.+)\srupees\scurrency\s(.+)[\,\.\?]>>$@_0 do you think $@_2 $@_1 by the indian government to demonetize $@_3 rupee $@_4
+[\,\.\?](.+)\s(.+)\smajor\sstereotypes\speople\shave\sabout\s(.+)\sand\sto\swhat\sextent\sare\sthey\strue[\,\.\?]>>$@_0 some misunderstood aspects of $@_1 culture of $@_2
+[\,\.\?](.+)\swill\sliving\s(.+)\sbe\s(.+)\sin\s2020[\,\.\?]>>$@_0 is it $@_2 to live $@_1
+[\,\.\?](.+)\sek:\swhen\sis\s(.+)\scoming\s(.+)[\,\.\?]>>why hasn't $@_0 ek brought $@_1 $@_2
+[\,\.\?]how\sdo\si\slose\s(.+)[\,\.\?]>>what is the easiest way to loose $@_0
+[\,\.\?]what\sis\sthe\sbest\spath\s(.+)\sshould\stake\sto\s(.+)\s(.+)[\,\.\?]>>how can $@_0 $@_1 communication skills in $@_2
+[\,\.\?](.+)\sare\ssome\sways\s(.+)[\,\.\?]>>$@_0 is the easiest way $@_1
+[\,\.\?]what\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how can i $@_0 my communication skills in $@_1
+[\,\.\?]how\scan\si\s(.+)\smy\s(.+)[\,\.\?]>>what are some ways to $@_0 a $@_1
+[\,\.\?]how\sshould\si\s(.+)\s(.+)[\,\.\?]>>what is the best way to $@_0 the $@_1
+[\,\.\?](.+)\sabout\smodi\s(.+)\sbanning\s(.+)\s&\s(.+)\scurrency\snote\sfrom\s9th\snovember[\,\.\?]>>$@_0 of the decision by the indian $@_1 to demonetize $@_2 and $@_3 rupee notes
+[\,\.\?]what\sare\s(.+)\sstories[\,\.\?]>>which is $@_0 story ever
+[\,\.\?]what\sshould\s(.+)\shave\sto\sdo\sto\smake\s(.+)\s(.+)\sand\s(.+)\sperfect[\,\.\?]>>how can $@_0 improve $@_1 $@_3 in $@_2
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are the best was to $@_0
+[\,\.\?]how\sdoes\sone\s(.+)[\,\.\?]>>what should i do to $@_0
+[\,\.\?](.+)\sis\sbiggest\sdifference\s(.+)\scultures[\,\.\?]>>$@_0 are the major differences $@_1 culture
+[\,\.\?](.+)\sis\syour\s(.+)\sresolution[\,\.\?]>>$@_0 are some $@_1 resolutions for 2017
+[\,\.\?](.+)\sare\syour\sviews\son\sban\s(.+)\s(.+)\sin\sindia[\,\.\?]>>$@_0 do you think $@_1 the decision by the indian government to demonetize $@_2
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how should i $@_0 my $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how do i $@_0 a $@_1
+[\,\.\?]how\sdoes\s(.+)\sdiffer\sfrom\s(.+)[\,\.\?]>>what is the difference between $@_0 and $@_1
+[\,\.\?]how\smuch\stime\swill\s(.+)\stake\s(.+)\sland\sin\s(.+)[\,\.\?]>>daniel ek: when is $@_0 coming $@_1 $@_2
+[\,\.\?](.+)\scan\syou\s(.+)\syour\s(.+)\s(.+)[\,\.\?]>>$@_0 do i $@_1 my $@_2 account when the recovery phone is no longer in service and forget my old $@_3
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\sfor\sa\snew\sblog[\,\.\?]>>how do i $@_0 on my site
+[\,\.\?]which\sis\sthe\sbest\sway\s(.+)\s(.+)[\,\.\?]>>what should i do $@_0 my $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what 's the easiest way to $@_0
+[\,\.\?](.+)\ssome\sgood\s(.+)\sto\slearn\s(.+)[\,\.\?]>>$@_0 the best $@_1 for learning $@_2
+[\,\.\?]how\scan\si\s(.+)\sthis\s(.+)[\,\.\?]>>what is the algorithmic approach to $@_0 the $@_1 "george and job"
+[\,\.\?]how\sdoes\sone\s(.+)[\,\.\?]>>what is the easiest way to $@_0
+[\,\.\?]who\swill\s(.+)\s2016[\,\.\?]>>which team is the favourite to $@_0 9 (2016)
+[\,\.\?]how\scan\syou\s(.+)[\,\.\?]>>is there a way to $@_0
+[\,\.\?]how\s(.+)\sview\s(.+)\s(.+)\s's\s(.+)\s(.+)\sfight\s"black\smoney"\s(.+)\sscrapping\s(.+)\s(.+)\s(.+)\srupee\s(.+)[\,\.\?]>>what $@_0 think of $@_1 $@_3 $@_5 the $@_2 $@_4 demonetize $@_6 $@_8 $@_7 $@_9
+[\,\.\?](.+)\sdo\syou\sthink\s(.+)\s(.+)\selection[\,\.\?]>>$@_0 $@_1 united states $@_2 election: trump or clinton
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what can be done to $@_0
+[\,\.\?](.+)\swhen\sis\s(.+)\scoming\s(.+)\s(.+)[\,\.\?]>>$@_0 what are the hardships for $@_1 $@_2 be launched in $@_3
+[\,\.\?]how\sdo\s(.+)\scompare\sand\scontrast[\,\.\?]>>what is the difference between $@_0
+[\,\.\?]how\scan\si\s(.+)\smy\scommunication\sskills\sin\s(.+)[\,\.\?]>>what are some ways to $@_0 $@_1
+[\,\.\?]why\swon\s't\s(.+)\s(.+)[\,\.\?]>>what should i do if $@_0 won't $@_1
+[\,\.\?]how\scan\si\sget\s(.+)[\,\.\?]>>what are some tips for getting $@_0
+[\,\.\?]is\sthis\smove\s(.+)\sbanning\s(.+)\s&\s(.+)\sright[\,\.\?]>>what do you think $@_0 the decision by the indian government to demonetize $@_1 and $@_2
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what do you have to do to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are some tips to $@_0
+[\,\.\?]how\scan\si\s(.+)[\,\.\?]>>what are ways to $@_0
+[\,\.\?](.+)\s(.+)\sin\samerica\s(.+)\selections\sin\s(.+)[\,\.\?]>>$@_0 do you think $@_1 the $@_3 $@_2 election
+[\,\.\?]why\swas\scyrus\s(.+)\sremoved\sas\s(.+)\schairman\sof\s(.+)[\,\.\?]>>what is $@_1 reason behind replacing cyrius $@_0 from $@_2
+[\,\.\?]what\sare\ssome\sways\sto\s(.+)\syour\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?](.+)\scan\s(.+)\swork\sin\s(.+)[\,\.\?]>>$@_0 do $@_1 get a job at $@_2
+[\,\.\?](.+)\sis\s(.+)\syears\sresolution[\,\.\?]>>$@_0 are $@_1 year 's resolutions
+[\,\.\?](.+)\sshould\si\sdo\s(.+)[\,\.\?]>>$@_0 are the best ways $@_1
+[\,\.\?](.+)\s(.+)\shas\sbeen\ssacked\sall\s(.+)\sa\ssudden[\,\.\?]>>$@_0 was $@_1 removed as the chairman $@_2 tata sons
+[\,\.\?](.+)\sdo\si\sretrieve\smy\s(.+)[\,\.\?]>>$@_0 can you recover your $@_1
+[\,\.\?](.+)\sdo\syou\sthink\s(.+)\sthe\s2016\s(.+)[\,\.\?]>>between trump and clinton $@_0 $@_1 us $@_2
+[\,\.\?](.+)\sreally\sgreat\spictures\sdepicting\s(.+)[\,\.\?]>>$@_0 of the best images of $@_1
+[\,\.\?]what\s(.+)\sdo\sto\spractice\s(.+)\s(.+)[\,\.\?]>>how $@_0 improve $@_1 communication skills in $@_2
+[\,\.\?]what\sis\sthe\sbest\sway\sto\smake\s(.+)[\,\.\?]>>how can i earn $@_0
+[\,\.\?](.+)\swas\s(.+)\sremoved\sas\sthe\schairman\sof\s(.+)[\,\.\?]>>$@_0 $@_2 replaced $@_1 to ratan tata
+[\,\.\?](.+)\sso\s(.+)\sask\squestions\son\s(.+)[\,\.\?]>>$@_0 do $@_1 post a question in $@_2
+[\,\.\?]what\sis\s(.+)\smovie\sof\s(.+)[\,\.\?]>>which are $@_0 movies in $@_1
+[\,\.\?]how\scan\s(.+)\sincrease\s(.+)[\,\.\?]>>what should $@_0 do to improve $@_1
+[\,\.\?]which\s(.+)\s(.+)\s(.+)\spreferred\sin\s(.+)\sprogramming\scompetitions[\,\.\?]>>what $@_2 the best $@_1 for $@_3 $@_0
+[\,\.\?]how\sdoes\sone\s(.+)\sat\s(.+)[\,\.\?]>>what is the best way to $@_0 in $@_1
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>which is the best way to $@_0
+[\,\.\?]how\scan\si\s(.+)\smy\s(.+)[\,\.\?]>>what are the best ways to $@_0 $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what are some ways to $@_0 fast
+[\,\.\?]how\sdo\si\slose\s(.+)[\,\.\?]>>what are the ways of losing $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is a way to $@_0
+[\,\.\?]how\sdo\syou\sfeel\sabout\s(.+)[\,\.\?]>>what is your opinion on $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\sour\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?]what\sare\sthe\sbest\sways\sto\s(.+)\syour\s(.+)[\,\.\?]>>how do i $@_0 my $@_1
+[\,\.\?](.+)\sdo\s(.+)\spronunciation\sof\s(.+)[\,\.\?]>>$@_0 can $@_1 communication skills in $@_2
+[\,\.\?]how\sdo\si\s(.+)\s(.+)\s(.+)[\,\.\?]>>what 's $@_1 best way to $@_0 $@_2
+[\,\.\?]how\scompetitive\sis\s(.+)\shiring\s(.+)[\,\.\?]>>what are some tips on making it through $@_0 job interview $@_1
+[\,\.\?](.+)\sis\sgoing\sto\s(.+)\s(.+)[\,\.\?]>>$@_0 do you think will $@_1 2016 $@_2
+[\,\.\?]what\sis\sthe\sbest\sway\sof\simproving\s(.+)[\,\.\?]>>how can i improve my $@_0
+[\,\.\?]how\scan\swe\s(.+)\s(.+)[\,\.\?]>>what should i do to $@_0 my $@_1
+[\,\.\?]what\sare\sthe\sbest\sways\sto\searn\s(.+)[\,\.\?]>>how do i make $@_0
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is a good diet to $@_0
+[\,\.\?](.+)\sis\syour\sreview\s(.+)[\,\.\?]>>$@_0 are the pros and cons $@_1
+[\,\.\?]who\swon\s(.+)\s2nd\s(.+)[\,\.\?]>>what are your thoghts on $@_0 second $@_1
+[\,\.\?]what\sare\sthe\sbest\sways\sto\s(.+)\s(.+)\sbecause\s(.+)\s'm\snot\sgood\s(.+)\senglish[\,\.\?]>>how can $@_2 $@_0 communication skills $@_3 $@_1
+[\,\.\?](.+)\sare\ssome\s(.+)\sexamples\sof\s(.+)[\,\.\?]>>$@_0 's the best $@_1 $@_2 you've ever seen/experienced
+[\,\.\?]what\sis\s(.+)\sreason\sbehind\sfiring\s(.+)\s(.+)\sfrom\s(.+)\sgroup[\,\.\?]>>why was $@_2 removed as $@_0 chairman $@_1 $@_3 sons
+[\,\.\?]how\scan\si\s(.+)\smyself\s(.+)[\,\.\?]>>what is the best way to $@_0 yourself $@_1
+[\,\.\?](.+)\sis\s(.+)\scoming\sto\s(.+)[\,\.\?]>>$@_0 will $@_1 be available in $@_2
+[\,\.\?]how\scan\sl\s(.+)[\,\.\?]>>what are some ways to $@_0
+[\,\.\?]how\s(.+)\sbecome\spresident[\,\.\?]>>why $@_0 win the election
+[\,\.\?](.+)\scan\s(.+)\sthe\s(.+)\sto\sa\swebsite[\,\.\?]>>$@_0 do $@_1 $@_2 on my site
+[\,\.\?]when\sdid\syou\slose\s(.+)[\,\.\?]>>what is the definition of virginity and losing $@_0 for both males and females
+[\,\.\?](.+)\swill\s(.+)\s2016\s(.+)\selection[\,\.\?]>>$@_0 is going to $@_1 $@_2 elections and why
+[\,\.\?]which\sis\s(.+)\scity\s(.+)[\,\.\?]>>what are the $@_0 cities $@_1
+[\,\.\?](.+)\sdo\s(.+)\spost\sa\s(.+)\sin\s(.+)[\,\.\?]>>$@_0 can $@_1 ask my $@_2 on $@_3
+[\,\.\?]how\sdo\si\s(.+)\s(.+)\s(.+)[\,\.\?]>>what is the best way to $@_0 $@_2 in $@_1
+[\,\.\?](.+)\scan\s(.+)\sprepare\s(.+)\supsc[\,\.\?]>>$@_0 should $@_1 start my preparation $@_2 the ias exam
+[\,\.\?](.+)\sis\sbalaji\sviswanathan\s's\sopinion\son\s(.+)\s(.+)\sprime\sminister\smodi\s's\snew\spolicy\sabout\sillegalization\s(.+)\s(.+)\scurrency\s(.+)[\,\.\?]>>$@_0 do you think $@_3 $@_1 decision by the $@_2 government to demonetize $@_4 rupee $@_5
+[\,\.\?](.+)\scan\s(.+)\sto\sa\sstory\sblog[\,\.\?]>>$@_0 do $@_1 on my site
+[\,\.\?](.+)\scould\s(.+)\sbe\sfluent\s(.+)[\,\.\?]>>$@_0 can $@_1 improve my communication skills $@_2
+[\,\.\?]how\scan\si\s(.+)\sby\smyself[\,\.\?]>>what is the easiest way to $@_0
+[\,\.\?]is\sit\spossible\s(.+)[\,\.\?]>>what are some ways $@_0
+[\,\.\?]how\s(.+)\syou\s(.+)\syour\s(.+)[\,\.\?]>>what should i $@_0 to $@_1 my $@_2
+[\,\.\?]where\scan\si\sget\s(.+)\sservices\s(.+)[\,\.\?]>>which cleaning company provides $@_0 service $@_1
+[\,\.\?]why\s(.+)\snott\savailable\sin\s(.+)[\,\.\?]>>daniel ek: when $@_0 coming to $@_1
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the fastest possible way to $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\sto\savoid\s(.+)[\,\.\?]>>how can i prevent $@_0
+[\,\.\?]what\sare\sthe\sbest\sways\sto\s(.+)\syour\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?]how\sshould\syou\s(.+)[\,\.\?]>>what is the best way to $@_0
+[\,\.\?]what\sare\s(.+)\sexamples\sof\s(.+)[\,\.\?]>>can anyone tell me $@_0 $@_1 experiences
+[\,\.\?](.+)\sis\sthe\smeaning\sof\s(.+)[\,\.\?]>>$@_0 does it mean to be a $@_1
+[\,\.\?](.+)\sare\sgood\sways\s(.+)[\,\.\?]>>$@_0 is the best way $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\smy\s(.+)[\,\.\?]>>how do i $@_0 a $@_1
+[\,\.\?]what\swould\sbe\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?](.+)\s(.+)\sremoved\s(.+)\sthe\s(.+)\sof\s(.+)\ssons[\,\.\?]>>what went wrong with $@_1 $@_2 $@_4 group $@_3 and $@_0 he ousted
+[\,\.\?]how\scan\s(.+)\s(.+)\scommunication\sskills\sin\s(.+)[\,\.\?]>>what should $@_0 do to $@_1 spoken $@_2
+[\,\.\?]how\sdo\syou\s(.+)[\,\.\?]>>what 's the fastest way to $@_0
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how do you $@_0 your $@_1
+[\,\.\?]which\scandidate\sis\scurrently\sprojected\sto\s(.+)\s(.+)\sat\sthis\stime[\,\.\?]>>who do you think will $@_0 presidential $@_1
+[\,\.\?]what\sis\sthe\sbest\sway\sto\s(.+)\syourself\s(.+)[\,\.\?]>>how can i $@_0 myself $@_1
+[\,\.\?](.+)\sis\s(.+)\splan\sto\sdeal\swith\s(.+)[\,\.\?]>>$@_0 will be $@_1 approach be towards $@_2
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what is the best way $@_0
+[\,\.\?]what\s's\sthe\sbest\sapproach\sto\semail\s(.+)[\,\.\?]>>how should i e-mail $@_0
+[\,\.\?]what\sdo\syou\sthink\sof\s(.+)\srupee\s(.+)[\,\.\?]>>was $@_0 $@_1 right or is it a big scam
+[\,\.\?](.+)\sare\sgreat\s(.+)\sideas[\,\.\?]>>$@_0 is the best $@_1 idea
+[\,\.\?](.+)\swas\s(.+)\sremoved\sas\sthe\s(.+)\sof\s(.+)\ssons[\,\.\?]>>$@_0 did $@_3 group fire $@_1 from $@_2 post
+[\,\.\?]how\sdo\si\s(.+)\smy\s(.+)[\,\.\?]>>what are good ways to $@_0 $@_1
+[\,\.\?](.+)\sdo\s(.+)\s(.+)\sif\s(.+)\s're\s(.+)[\,\.\?]>>$@_0 will $@_1 come to $@_2 that $@_3 are $@_4
+[\,\.\?]how\scan\si\sbe\s(.+)[\,\.\?]>>what is the fastest way to become $@_0
+[\,\.\?]what\sare\ssome\scharacteristics\sof\s(.+)[\,\.\?]>>how do $@_0 compare and contrast
+[\,\.\?]how\scan\si\s(.+)\s(.+)[\,\.\?]>>what is the best way to $@_0 your $@_1
+[\,\.\?](.+)\sare\ssome\sgood\s(.+)\sideas[\,\.\?]>>$@_0 is the best $@_1 idea
+[\,\.\?]what\sare\sthe\skeys\sto\sbecoming\s(.+)[\,\.\?]>>how do i become $@_0
+[\,\.\?]what\sare\sthe\sbest\sways\sto\s(.+)\s(.+)[\,\.\?]>>how can i $@_0 my $@_1
+[\,\.\?](.+)\swill\s(.+)\syou\s(.+)\ssomeone[\,\.\?]>>$@_0 do $@_1 if you're in $@_2
+[\,\.\?]how\scan\si\s(.+)\sa\s(.+)[\,\.\?]>>what is the easiest way to $@_0 $@_1
+[\,\.\?]why\swas\s(.+)\sremoved\sas\s(.+)\schairman\s(.+)\s(.+)[\,\.\?]>>what are $@_1 prospect reasons $@_2 $@_0 being fired by $@_3
+[\,\.\?]how\sdo\si\spost\s(.+)\sin\s(.+)[\,\.\?]>>what are the best ways to ask $@_0 on $@_1
+[\,\.\?](.+)\s(.+)\scan\sask\s(.+)\son\s(.+)[\,\.\?]>>$@_0 do $@_1 post a $@_2 in $@_3
+[\,\.\?]how\sdo\si\s(.+)[\,\.\?]>>what would be a realistic plan to $@_0
+[\,\.\?]what\sis\sthe\s(.+)\sorganic\s(.+)\sof\swebsites[\,\.\?]>>how do i $@_0 $@_1 on my site
+[\,\.\?]how\scan\si\s(.+)\sa\s(.+)[\,\.\?]>>what are the best ways to $@_0 your $@_1
+[\,\.\?](.+)\sdonald\strump\sor\shillary\sclinton\s(.+)\sus\s(.+)[\,\.\?]>>who do you think $@_0 $@_1 $@_2
+[\,\.\?](.+)\sif\syou\s're\sin\s(.+)[\,\.\?]>>$@_0 when it is true $@_1
+[\,\.\?]how\sdo\si\s(.+)\smore\s(.+)[\,\.\?]>>what is the best way to $@_0 $@_1
+[\,\.\?]which\s(.+)\sshould\si\s(.+)[\,\.\?]>>what is the best $@_0 to $@_1
+[\,\.\?]how\sdo\si\s(.+)\s(.+)[\,\.\?]>>what is the fastest way to $@_0 a $@_1
+[\,\.\?](.+)\sis\syour\sopinion\son\spm\snarendra\smodi\s's\s(.+)\s(.+)\sban\sinr\s(.+)\sinr\s(.+)\s(.+)[\,\.\?]>>$@_0 do you think of the $@_1 by the indian government $@_2 demonetize $@_3 $@_4 rupee $@_5
+[\,\.\?](.+)\sabout\s(.+)\s(.+)\spolicy\s(.+)\snot\scirculating\sinr\s(.+)\sinr\s(.+)[\,\.\?]>>$@_0 $@_3 $@_1 decision by the $@_2 to demonetize $@_4 $@_5 rupee notes
+[\,\.\?](.+)\scan\si\s(.+)\san\s(.+)\sin\s(.+)[\,\.\?]>>$@_0 does one $@_1 a research $@_2 at $@_3
+[\,\.\?](.+)\sremoved\sas\sthe\schairman\sof\s(.+)\s(.+)[\,\.\?]>>$@_0 sacked by ratan $@_1 from tata $@_2
+[\,\.\?]what\sare\sthe\sbest\sway\sto\s(.+)\s(.+)[\,\.\?]>>how do you $@_0 about $@_1
+[\,\.\?](.+)\sis\scurrently\swinning\s(.+)\s(.+)[\,\.\?]>>$@_0 do you think will win $@_1 2016 $@_2
+[\,\.\?]what\sis\sthe\sbest\smethod\sof\slosing\s(.+)[\,\.\?]>>how do i lose $@_0
+[\,\.\?]what\sis\s(.+)\spercentage\sof\s(.+)\s(.+)\sthe\s(.+)[\,\.\?]>>how many $@_1 are there $@_2 $@_0 $@_3
+[\,\.\?](.+)\scould\swe\s(.+)\sthat\swe\sare\sfalling\s(.+)[\,\.\?]>>$@_0 do you $@_1 if you're $@_2
+[\,\.\?](.+)\sabout\s(.+)\smodi\s's\ssudden\s(.+)\s(.+)\sscrap\s(.+)\srs\sdenomination[\,\.\?]>>$@_0 of $@_1 $@_2 by the indian government $@_3 demonetize $@_4 rupee notes
