@@ -1,5 +1,5 @@
-# rule
-sequence to sequence
+# RegEx_based_convertor
+
 # 一、简介
 ## 基于正则表达式做的一套规则生成器和规则应用器用于完成paraphasing任务
 
